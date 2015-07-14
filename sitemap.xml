@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2015/07/14/coding/</loc>
-    <lastmod>2015-07-14T08:49:27.586Z</lastmod>
+    <loc>http://yoursite.com/2015/07/14/angularLearning/</loc>
+    <lastmod>2015-07-14T09:21:15.450Z</lastmod>
   </url>
   
   <url>
@@ -14,11 +14,6 @@
   <url>
     <loc>http://yoursite.com/about/index.html</loc>
     <lastmod>2015-07-14T08:29:24.438Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/07/14/hello-world/</loc>
-    <lastmod>2015-07-14T06:43:24.362Z</lastmod>
   </url>
   
 </urlset>
