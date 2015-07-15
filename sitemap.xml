@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2015/07/15/new-start/</loc>
+    <lastmod>2015-07-15T06:58:54.263Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/07/14/angularLearning/</loc>
-    <lastmod>2015-07-14T09:22:44.973Z</lastmod>
+    <lastmod>2015-07-15T06:39:17.049Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    <lastmod>2015-07-15T06:23:33.056Z</lastmod>
   </url>
   
   <url>
     <loc>http://yoursite.com/404.html</loc>
     <lastmod>2015-07-14T08:44:44.939Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    <lastmod>2015-07-14T08:29:24.438Z</lastmod>
   </url>
   
 </urlset>
